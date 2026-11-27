@@ -23,7 +23,7 @@ Scripts SQL utilizados no projeto:
 - 05_dtl_testes.sql — Testes e validações.
 
 ### 03_evidencias
-Evidências do desenvolvimento, testes e demonstração do projeto.
+ADICONAR LINK DO VIDEO
 
 ## Tecnologias Utilizadas
 
@@ -33,10 +33,10 @@ Evidências do desenvolvimento, testes e demonstração do projeto.
 
 ## Integrantes do Grupo
 
-- Inserir nome do integrante 1
-- Inserir nome do integrante 2
-- Inserir nome do integrante 3
+- Bruna Campos Campelo - RGM 11261103832
+- Patrícia Coutinho Cavalcante - RGM 11261100608
+- Marcela Aparecida Luciano Lucas - RGM 11261105783
 
 ## Professor
 
-Inserir nome do professor.
+Professor: Mateus Levi Andrade
